@@ -1,0 +1,242 @@
+Player Name,Country,Age,Skill,IPL Caps,Previous Teams,Base Price (Lakh),Player Status
+Jos Buttler,England,34.0,WICKETKEEPER,107.0,"MI,RR",200.0,Capped
+Shreyas Iyer,India,30.0,BATTER,116.0,"DC,KKR",200.0,Capped
+Rishabh Pant,India,27.0,BATTER,111.0,DC,200.0,Capped
+Kagiso Rabada,South Africa,29.0,BOWLER,80.0,"DC,PBKS",200.0,Capped
+Arshdeep Singh,India,26.0,BOWLER,65.0,PBKS,200.0,Capped
+Mitchell Starc,Australia,35.0,BOWLER,41.0,RCB.KKR,200.0,Capped
+Yuzvendra Chahal,India,34.0,BOWLER,160.0,"MI,RCB,RR",200.0,Capped
+Liam Livingstone,England,31.0,ALL-ROUNDER,39.0,"RR,PBKS",200.0,Capped
+David Miller,South Africa,35.0,BATTER,130.0,"PBKS,RR,GT",150.0,Capped
+KL Rahul,India,32.0,WICKETKEEPER,132.0,"SRH,RCB,PBKS,LSG",200.0,Capped
+Mohammad Shami,India,34.0,BOWLER,110.0,"KKR,PBKS,GT",200.0,Capped
+Mohammad Siraj,India,31.0,BOWLER,93.0,"SRH,RCB",200.0,Capped
+Harry Brook,England,26.0,BATTER,11.0,"SRH,DC",200.0,Capped
+Devon Conway,New Zealand,33.0,BATTER,23.0,CSK,200.0,Capped
+Jake Fraser-Mcgurk,Australia,22.0,BATTER,9.0,DC,200.0,Capped
+Aiden Markram,South Africa,30.0,BATTER,44.0,"PBKS,SRH",200.0,Capped
+Devdutt Padikkal,India,24.0,BATTER,64.0,"RCB,RR,LSG",200.0,Capped
+Rahul Tripathi,India,34.0,BATTER,95.0,"RPS,RR,KKR,SRH",75.0,Capped
+David Warner,Australia,38.0,BATTER,184.0,"SRH,DC",200.0,Capped
+Ravichandaran Ashwin,India,38.0,ALL-ROUNDER,212.0,"CSK,RPS,PBKS,DC,RR",200.0,Capped
+Venkatesh Iyer,India,30.0,ALL-ROUNDER,51.0,KKR,200.0,Capped
+Mitchell Marsh,Australia,33.0,ALL-ROUNDER,42.0,"DCH,PWI,RPS,SRH,DC",200.0,Capped
+Glenn Maxwell,Australia,36.0,ALL-ROUNDER,134.0,"DC,MI,PBKS,RCB",200.0,Capped
+Harshal Patel,India,34.0,ALL-ROUNDER,106.0,"DC,RCB,PBKS",200.0,Capped
+Rachin Ravindra,New Zealand,25.0,ALL-ROUNDER,10.0,CSK,150.0,Capped
+Marcus Stoinis,Australia,35.0,ALL-ROUNDER,96.0,"PBKS,RCB,DC,LSG",200.0,Capped
+Jonny Bairstow,England,35.0,WICKETKEEPER,50.0,"SRH,PBKS",200.0,Capped
+Quinton De Kock,South Africa,32.0,WICKETKEEPER,107.0,"SRH,DC,RCB,MI,LSG",200.0,Capped
+Rahmanullah Gurbaz,Afghanistan,23.0,WICKETKEEPER,14.0,"GT, KKR",200.0,Capped
+Ishan Kishan,India,26.0,WICKETKEEPER,104.0,"GL,MI",200.0,Capped
+Phil Salt,England,28.0,WICKETKEEPER,21.0,"DC,KKR",200.0,Capped
+Jitesh Sharma,India,31.0,WICKETKEEPER,40.0,"MI,PBKS",100.0,Capped
+Syed Khaleel Ahmed,India,27.0,BOWLER,57.0,"SRH,DC",200.0,Capped
+Trent Boult,New Zealand,35.0,BOWLER,104.0,"SRH,DC,MI,RR",200.0,Capped
+Josh Hazlewood,Australia,34.0,BOWLER,27.0,"CSK,RCB",200.0,Capped
+Avesh Khan,India,28.0,BOWLER,63.0,"RCB,DC,LSG,RR",200.0,Capped
+Prasidh Krishna,India,29.0,BOWLER,51.0,"KKR,RR",200.0,Capped
+T. Natarajan,India,33.0,BOWLER,61.0,"PBKS,SRH",200.0,Capped
+Anrich Nortje,South Africa,31.0,BOWLER,46.0,DC,200.0,Capped
+Noor Ahmad,Afghanistan,20.0,BOWLER,23.0,GT,200.0,Capped
+Rahul Chahar,India,25.0,BOWLER,78.0,"RPS,MI,PBKS",100.0,Capped
+Wanindu Hasaranga,Sri Lanka,27.0,BOWLER,26.0,"RCB,SRH",200.0,Capped
+Waqar Salamkheil,Afghanistan,23.0,BOWLER,,,75.0,Capped
+Maheesh Theekshana,Sri Lanka,24.0,BOWLER,27.0,CSK,200.0,Capped
+Adam Zampa,Australia,32.0,BOWLER,20.0,"RPS,RCB,RR",200.0,Capped
+Yash Dhull,India,22.0,BATTER,4.0,DC,30.0,Uncapped
+Abhinav Manohar,India,30.0,BATTER,18.0,GT,30.0,Uncapped
+Karun Nair,India,33.0,BATTER,76.0,"RCB,RR,DD,PBKS,LSG",30.0,Uncapped
+Angkrish Raghuvanshi,India,20.0,BATTER,10.0,KKR,30.0,Uncapped
+Anmolpreet Singh,India,27.0,BATTER,9.0,"MI,SRH",30.0,Uncapped
+Atharva Taide,India,24.0,BATTER,9.0,PBKS,30.0,Uncapped
+Nehal Wadhera,India,24.0,BATTER,20.0,MI,30.0,Uncapped
+Harpreet Brar,India,29.0,ALL-ROUNDER,41.0,PBKS,30.0,Uncapped
+Naman Dhir,India,25.0,ALL-ROUNDER,7.0,MI,30.0,Uncapped
+Mahipal Lomror,India,25.0,ALL-ROUNDER,40.0,"RR,RCB",50.0,Uncapped
+Sameer Rizvi,India,21.0,ALL-ROUNDER,9.0,CSK,30.0,Uncapped
+Abdul Samad,India,23.0,ALL-ROUNDER,50.0,SRH,30.0,Uncapped
+Vijay Shankar,India,34.0,ALL-ROUNDER,72.0,"CSK,DC,SRH,GT",30.0,Uncapped
+Ashutosh Sharma,India,26.0,ALL-ROUNDER,11.0,PBKS,30.0,Uncapped
+Nishant Sindhu,India,20.0,ALL-ROUNDER,0.0,CSK,30.0,Uncapped
+Utkarsh Singh,India,26.0,ALL-ROUNDER,0.0,PBKS,30.0,Uncapped
+Aryan Juyal,India,23.0,WICKETKEEPER,0.0,MI,30.0,Uncapped
+Kumar Kushagra,India,20.0,WICKETKEEPER,0.0,GT,30.0,Uncapped
+Robin Minz,India,22.0,WICKETKEEPER,0.0,GT,30.0,Uncapped
+Anuj Rawat,India,25.0,WICKETKEEPER,24.0,"RR,RCB",30.0,Uncapped
+Luvnith Sisodia,India,25.0,WICKETKEEPER,0.0,RCB,30.0,Uncapped
+Vishnu Vinod,India,31.0,WICKETKEEPER,6.0,"RCB,DC,SRH,MI",30.0,Uncapped
+Upendra Singh Yadav,India,28.0,WICKETKEEPER,0.0,SRH,30.0,Uncapped
+Vaibhav Arora,India,27.0,BOWLER,20.0,"PBKS,KKR",30.0,Uncapped
+Rasikh Dar,India,25.0,BOWLER,11.0,"MI,,KKR,DC",30.0,Uncapped
+Akash Madhwal,India,31.0,BOWLER,12.0,MI,30.0,Uncapped
+Mohit Sharma,India,36.0,BOWLER,111.0,"CSK,PBKS,DC,GT",50.0,Uncapped
+Simarjeet Singh,India,27.0,BOWLER,10.0,CSK,30.0,Uncapped
+Yash Thakur,India,26.0,BOWLER,19.0,LSG,30.0,Uncapped
+Kartik Tyagi,India,24.0,BOWLER,20.0,"RR,SRH,GT",40.0,Uncapped
+Vyshak Vijaykumar,India,28.0,BOWLER,11.0,RCB,30.0,Uncapped
+Piyush Chawla,India,36.0,BOWLER,192.0,"PBKS,KKR,CSK,MI",50.0,Uncapped
+Shreyas Gopal,India,31.0,BOWLER,52.0,"RR,SRH,MI",30.0,Uncapped
+Mayank Markande,India,27.0,BOWLER,37.0,"MI,RR,SRH",30.0,Uncapped
+Suyash Sharma,India,21.0,BOWLER,13.0,KKR,30.0,Uncapped
+Karn Sharma,India,37.0,BOWLER,84.0,"SRH,MI,CSK,RCB",50.0,Uncapped
+Kumar Kartikeya Singh,India,27.0,BOWLER,12.0,MI,30.0,Uncapped
+Manav Suthar,India,22.0,BOWLER,0.0,GT,30.0,Uncapped
+Mayank Agarawal,India,34.0,BATTER,127.0,"RCB,DC,RPS,PBKS,SRH",100.0,Capped
+Faf Du Plessis,South Africa,40.0,BATTER,145.0,"CSK,RPS,RCB",200.0,Capped
+Glenn Phillips,New Zealand,28.0,BATTER,8.0,"RR,SRH",200.0,Capped
+Rovman Powell,West Indies,31.0,BATTER,27.0,"KKR,DC,RR",150.0,Capped
+Ajinkya Rahane,India,36.0,BATTER,185.0,"MI,RPS,RR,DC,KKR,SRH",150.0,Capped
+Prithvi Shaw,India,25.0,BATTER,79.0,DC,75.0,Capped
+Kane Williamson,New Zealand,34.0,BATTER,79.0,"SRH,GT",200.0,Capped
+Sam Curran,England,26.0,ALL-ROUNDER,59.0,"CSK,PBKS",200.0,Capped
+Marco Jansen,South Africa,24.0,ALL-ROUNDER,21.0,"MI,SRH",125.0,Capped
+Daryl Mitchell,New Zealand,33.0,ALL-ROUNDER,15.0,"RR,CSK",200.0,Capped
+Krunal Pandya,India,34.0,ALL-ROUNDER,127.0,"MI,LSG",200.0,Capped
+Nitish Rana,India,31.0,ALL-ROUNDER,107.0,"MI,KKR",150.0,Capped
+Washington Sundar,India,25.0,ALL-ROUNDER,61.0,"RPS,RCB,SRH",200.0,Capped
+Shardul Thakur,India,33.0,ALL-ROUNDER,95.0,"PBKS,RPS,DC,KKR,CSK",200.0,Capped
+K.S Bharat,India,31.0,WICKETKEEPER,11.0,"RCB,DC,GT,KKR",75.0,Capped
+Alex Carey,Australia,33.0,WICKETKEEPER,3.0,DC,100.0,Capped
+Donovan Ferreira,South Africa,26.0,WICKETKEEPER,2.0,RR,75.0,Capped
+Shai Hope,West Indies,31.0,WICKETKEEPER,9.0,DC,125.0,Capped
+Josh Inglis,Australia,30.0,WICKETKEEPER,,,200.0,Capped
+Ryan Rickelton,South Africa,28.0,WICKETKEEPER,,,100.0,Capped
+Deepak Chahar,India,32.0,BOWLER,81.0,"RPS,CSK",200.0,Capped
+Gerald Coetzee,South Africa,24.0,BOWLER,10.0,MI,125.0,Capped
+Akash Deep,India,28.0,BOWLER,8.0,RCB,100.0,Capped
+Tushar Deshpande,India,29.0,BOWLER,36.0,"DC,CSK",100.0,Capped
+Lockie Ferguson,New Zealand,33.0,BOWLER,45.0,"RPS,GT,KKR,RCB",200.0,Capped
+Bhuvneshwar Kumar,India,35.0,BOWLER,176.0,"PWI,SRH",200.0,Capped
+Mukesh Kumar,India,31.0,BOWLER,20.0,DC,200.0,Capped
+Allah Ghazanfar,Afghanistan,19.0,BOWLER,0.0,KKR,75.0,Capped
+Akeal Hosein,West Indies,31.0,BOWLER,1.0,SRH,150.0,Capped
+Keshav Maharaj,South Africa,35.0,BOWLER,2.0,RR,75.0,Capped
+Mujeeb Ur Rahman,Afghanistan,24.0,BOWLER,19.0,"PBKS,SRH,KKR",200.0,Capped
+Adil Rashid,England,37.0,BOWLER,3.0,"PBKS,SRH",200.0,Capped
+Vijayakanth Viyaskanth,Sri Lanka,23.0,BOWLER,3.0,SRH,75.0,Capped
+Ricky Bhui,India,28.0,BATTER,4.0,"SRH,DC",30.0,Uncapped
+Swastik Chhikara,India,20.0,BATTER,0.0,DC,30.0,Uncapped
+Aarya Desai,India,22.0,BATTER,0.0,KKR,30.0,Uncapped
+Shubham Dubey,India,30.0,BATTER,4.0,RR,30.0,Uncapped
+Madhav Kaushik,India,27.0,BATTER,,,30.0,Uncapped
+Pukhraj Mann,India,23.0,BATTER,,,30.0,Uncapped
+Shaik Rasheed,India,20.0,BATTER,0.0,CSK,30.0,Uncapped
+Himmat Singh,India,28.0,BATTER,0.0,RCB,30.0,Uncapped
+Mayank Dagar,India,28.0,ALL-ROUNDER,8.0,"PBKS,SRH,RCB",30.0,Uncapped
+Anshul Kamboj,India,24.0,ALL-ROUNDER,3.0,MI,30.0,Uncapped
+Mohd. Arshad Khan,India,27.0,ALL-ROUNDER,10.0,"MI,LSG",30.0,Uncapped
+Darshan Nalkande,India,26.0,ALL-ROUNDER,5.0,"PBKS,GT",30.0,Uncapped
+Suyash Prabhudessai,India,27.0,ALL-ROUNDER,1.0,RCB,30.0,Uncapped
+Anukul Roy,India,26.0,ALL-ROUNDER,11.0,"MI,KKR",30.0,Uncapped
+Swapnil Singh,India,34.0,ALL-ROUNDER,14.0,"PBKS,LSG,RCB",30.0,Uncapped
+Sanvir Singh,India,28.0,ALL-ROUNDER,6.0,SRH,30.0,Uncapped
+Avanish Aravelly,India,19.0,WICKETKEEPER,0.0,,30.0,Uncapped
+Vansh Bedi,India,22.0,WICKETKEEPER,,,30.0,Uncapped
+Saurav Chauhan,India,24.0,WICKETKEEPER,3.0,RCB,30.0,Uncapped
+Harvik Desai,India,25.0,WICKETKEEPER,0.0,MI,30.0,Uncapped
+Tom Kohler-Cadmore,England,30.0,WICKETKEEPER,4.0,RR,50.0,Uncapped
+Kunal Rathore,India,22.0,WICKETKEEPER,0.0,RR,30.0,Uncapped
+B.R Sharath,India,28.0,WICKETKEEPER,1.0,GT,30.0,Uncapped
+Gurnoor Singh Brar,India,24.0,BOWLER,1.0,"PBKS,GT",30.0,Uncapped
+Mukesh Choudhary,India,28.0,BOWLER,14.0,CSK,30.0,Uncapped
+Sakib Hussain,India,20.0,BOWLER,0.0,KKR,30.0,Uncapped
+Vidwath Kaverappa,India,26.0,BOWLER,1.0,PBKS,30.0,Uncapped
+Rajan Kumar,India,28.0,BOWLER,0.0,RCB,30.0,Uncapped
+Sushant Mishra,India,24.0,BOWLER,0.0,GT,30.0,Uncapped
+Arjun Tendulkar,India,25.0,BOWLER,5.0,MI,30.0,Uncapped
+Zeeshan Ansari,India,25.0,BOWLER,,,30.0,Uncapped
+Prince Choudhary,India,25.0,BOWLER,0.0,PBKS,30.0,Uncapped
+Himanshu Sharma,India,26.0,BOWLER,1.0,RCB,30.0,Uncapped
+M. Siddharth,India,26.0,BOWLER,3.0,"KKR,DC,LSG",30.0,Uncapped
+Digvesh Singh,India,25.0,BOWLER,,,30.0,Uncapped
+Prashant Solanki,India,25.0,BOWLER,2.0,CSK,30.0,Uncapped
+Jhathavedh Subramanyan,India,25.0,BOWLER,0.0,SRH,30.0,Uncapped
+Finn Allen,New Zealand,25.0,BATTER,0.0,RCB,200.0,Capped
+Dewald Brevis,South Africa,21.0,BATTER,10.0,MI,75.0,Capped
+Ben Duckett,England,30.0,BATTER,,,200.0,Capped
+Manish Pandey,India,35.0,BATTER,171.0,"MI,RCB,PWI, SRH, LSG,DC,KKR",75.0,Capped
+Rilee Rossouw,South Africa,35.0,BATTER,22.0,"RCB,DC,PBKS",200.0,Capped
+Sherfane Rutherford,West Indies,26.0,BATTER,10.0,"DC,MI,RR,RCB,KKR",150.0,Capped
+Ashton Turner,Australia,32.0,BATTER,6.0,"RR,LSG",100.0,Capped
+James Vince,England,34.0,BATTER,,,200.0,Capped
+Shahbaz Ahamad,India,30.0,ALL-ROUNDER,55.0,"RCB,SRH",100.0,Capped
+Moeen Ali,England,37.0,ALL-ROUNDER,67.0,"RCB,CSK",200.0,Capped
+Tim David,Australia,29.0,ALL-ROUNDER,38.0,"RCB,MI",200.0,Capped
+Deepak Hooda,India,29.0,ALL-ROUNDER,118.0,"RR,SRH,PBKS,LSG",75.0,Capped
+Will Jacks,England,26.0,ALL-ROUNDER,8.0,RCB,200.0,Capped
+Azmatullah Omarzai,Afghanistan,25.0,ALL-ROUNDER,7.0,GT,150.0,Capped
+R. Sai Kishore,India,28.0,ALL-ROUNDER,10.0,"CSK,GT",75.0,Capped
+Romario Shepherd,West Indies,30.0,ALL-ROUNDER,10.0,"SRH,LSG,MI",150.0,Capped
+Tom Banton,England,26.0,WICKETKEEPER,2.0,KKR,200.0,Capped
+Sam Billings,England,33.0,WICKETKEEPER,30.0,"CSK,DC,KKR",150.0,Capped
+Jordan Cox,England,24.0,WICKETKEEPER,,,125.0,Capped
+Ben McDermott,Australia,30.0,WICKETKEEPER,,,75.0,Capped
+Kusal Mendis,Sri Lanka,30.0,WICKETKEEPER,,,75.0,Capped
+Kusal Perera,Sri Lanka,34.0,WICKETKEEPER,2.0,RR,75.0,Capped
+Josh Philippe,Australia,27.0,WICKETKEEPER,5.0,RCB,75.0,Capped
+Tim Seifert,New Zealand,30.0,WICKETKEEPER,3.0,"KKR,DC",125.0,Capped
+Nandre Burger,South Africa,29.0,BOWLER,6.0,RR,125.0,Capped
+Spencer Johnson,Australia,29.0,BOWLER,5.0,GT,200.0,Capped
+Umran Malik,India,25.0,BOWLER,26.0,SRH,75.0,Capped
+Mustafizur Rahman,Bangladesh,29.0,BOWLER,57.0,"SRH,MI,RR,DC,CSK",200.0,Capped
+Ishant Sharma,India,36.0,BOWLER,109.0,"KKR,DCH,SRH,RPS,PBKS,DC",75.0,Capped
+Nuwan Thushara,Sri Lanka,30.0,BOWLER,7.0,MI,75.0,Capped
+Naveen Ul Haq,Afghanistan,25.0,BOWLER,18.0,LSG,200.0,Capped
+Jaydev Unadkat,India,33.0,BOWLER,105.0,"RCB,DC,KKR,RPS,RR,MI,LSG,SRH",100.0,Capped
+Umesh Yadav,India,37.0,BOWLER,148.0,"RCB,DC,KKR,GT",200.0,Capped
+Rishad Hossain,Bangladesh,22.0,BOWLER,,,75.0,Capped
+Zahir Khan Pakten,Afghanistan,26.0,BOWLER,0.0,RR,75.0,Capped
+Nqabayomzi Peter,South Africa,23.0,BOWLER,,,75.0,Capped
+Tanveer Sangha,Australia,23.0,BOWLER,,,75.0,Capped
+Tabraiz Shamsi,South Africa,35.0,BOWLER,5.0,"RCB,RR",200.0,Capped
+Jeffery Vandersay,Sri Lanka,35.0,BOWLER,,,75.0,Capped
+Sachin Baby,India,36.0,BATTER,19.0,"RR,SRH,RCB",30.0,Uncapped
+Priyam Garg,India,24.0,BATTER,23.0,"SRH,DC",30.0,Uncapped
+Harnoor Pannu,India,22.0,BATTER,,,30.0,Uncapped
+Smaran Ravichandran,India,21.0,BATTER,,,30.0,Uncapped
+Shashwat Rawat,India,24.0,BATTER,,,30.0,Uncapped
+Andre Siddarth,India,18.0,BATTER,,,30.0,Uncapped
+Yudhvir Charak,India,27.0,ALL-ROUNDER,5.0,"MI,LSG",30.0,Uncapped
+Rishi Dhawan,India,35.0,ALL-ROUNDER,39.0,"MI,KKR,PBKS",30.0,Uncapped
+Rajvardhan Hangargekar,India,22.0,ALL-ROUNDER,2.0,CSK,30.0,Uncapped
+Tanush Kotian,India,26.0,ALL-ROUNDER,1.0,RR,30.0,Uncapped
+Arshin Kulkarni,India,20.0,ALL-ROUNDER,2.0,LSG,30.0,Uncapped
+Shams Mulani,India,28.0,ALL-ROUNDER,2.0,MI,30.0,Uncapped
+Shivam Singh,India,29.0,ALL-ROUNDER,1.0,PBKS,30.0,Uncapped
+Lalit Yadav,India,28.0,ALL-ROUNDER,27.0,DC,30.0,Uncapped
+Gus Atkinson,England,27.0,ALL-ROUNDER,0.0,KKR,200.0,Capped
+Tom Curran,England,30.0,ALL-ROUNDER,13.0,"KKR,RR,DC,RCB",200.0,Capped
+Krishnappa Gowtham,India,36.0,ALL-ROUNDER,36.0,"MI,RR,PBKS,CSK,LSG",100.0,Capped
+Mohammad Nabi,Afghanistan,40.0,ALL-ROUNDER,24.0,"SRH,MI,KKR",150.0,Capped
+Gulbadin Naib,Afghanistan,33.0,ALL-ROUNDER,2.0,DC,100.0,Capped
+Sikandar Raza,Zimbabwe,38.0,ALL-ROUNDER,9.0,PBKS,125.0,Capped
+Mitchell Santner,New Zealand,33.0,ALL-ROUNDER,18.0,CSK,200.0,Capped
+Jayant Yadav,India,35.0,ALL-ROUNDER,20.0,"DC,MI,GT",75.0,Capped
+Fazalhaq Farooqi,Afghanistan,24.0,BOWLER,7.0,SRH,200.0,Capped
+Richard Gleeson,England,37.0,BOWLER,2.0,CSK,75.0,Capped
+Matt Henry,New Zealand,33.0,BOWLER,6.0,"PBKS,LSG",200.0,Capped
+Alzarri Joseph,West Indies,28.0,BOWLER,22.0,"MI,GT,RCB",200.0,Capped
+Kwena Maphaka,South Africa,18.0,BOWLER,2.0,MI,75.0,Capped
+Kuldeep Sen,India,28.0,BOWLER,12.0,RR,75.0,Capped
+Reece Topley,England,31.0,BOWLER,5.0,RCB,75.0,Capped
+Lizaad Williams,South Africa,31.0,BOWLER,2.0,DC,75.0,Capped
+Luke Wood,England,29.0,BOWLER,2.0,MI,75.0,Capped
+Manoj Bhandage,India,26.0,ALL-ROUNDER,0.0,RCB,30.0,Uncapped
+Pravin Dubey,India,31.0,ALL-ROUNDER,4.0,DC,30.0,Uncapped
+Ajay Mandal,India,29.0,ALL-ROUNDER,0.0,CSK,30.0,Uncapped
+Prerak Mankad,India,30.0,ALL-ROUNDER,5.0,"PBKS,LSG",30.0,Uncapped
+Vicky Ostwal,India,22.0,ALL-ROUNDER,0.0,DC,30.0,Uncapped
+Shivalik Sharma,India,26.0,ALL-ROUNDER,0.0,MI,30.0,Uncapped
+Kyle Mayers,West Indies,32.0,ALL-ROUNDER,12.0,LSG,150.0,Capped
+Jason Behrendorff,Australia,34.0,BOWLER,17.0,"CSK,RCB,MI",150.0,Capped
+Dushmantha Chameera,Sri Lanka,33.0,BOWLER,13.0,"RR,RCB,LSG,KKR",75.0,Capped
+Nathan Ellis,Australia,30.0,BOWLER,16.0,PBKS,125.0,Capped
+Shamar Joseph,West Indies,25.0,BOWLER,1.0,LSG,75.0,Capped
+Josh Little,Ireland,25.0,BOWLER,11.0,GT,75.0,Capped
+Shivam Mavi,India,26.0,BOWLER,32.0,"KKR,GT,LSG",75.0,Capped
+Jhye Richardson,Australia,28.0,BOWLER,4.0,"PBKS,MI,DC",150.0,Capped
+Navdeep Saini,India,32.0,BOWLER,32.0,"DC,RCB,RR",75.0,Capped
+Dilshan Madushanka,Sri Lanka,24.0,BOWLER,0.0,MI,75.0,Capped
+Lungisani Ngidi,South Africa,29.0,BOWLER,14.0,"CSK,DC",100.0,Capped
+Chetan Sakariya,India,27.0,BOWLER,19.0,"RR,DC,KKR",75.0,Capped
