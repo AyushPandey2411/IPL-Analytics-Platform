@@ -1,4 +1,4 @@
-# 🏏 IPL 2022 Performance Analyzer & Predictor
+# 🏏 IPL 2022 Performance Analyzer & Predictor - Live: https://ipl-analytics-platform.streamlit.app/
 ### A Full-Stack AI + Analytics Platform for Cricket Intelligence
 
 > **From raw ball-by-ball data to real-time predictions, fantasy team optimization, and executive-grade dashboards — all in one production-ready platform.**
